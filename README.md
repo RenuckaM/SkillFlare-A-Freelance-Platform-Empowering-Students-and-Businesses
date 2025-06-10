@@ -35,7 +35,9 @@ SkillFlare is a task-based freelance platform developed as a final year project 
 
 ![image](https://github.com/user-attachments/assets/b9eccb50-ba91-478e-bc4c-59ad3f4882ac)
 
-## 📱 Screenshots / UI Flow (from presentation)
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/95e9d285-b6db-4c59-807f-0898a577fb63)
 
 - Logo & Login screens
 - Student & Business Onboarding
